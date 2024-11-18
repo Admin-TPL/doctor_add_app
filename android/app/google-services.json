@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "243473466631",
+    "project_id": "loyal-oath-438204-k1",
+    "storage_bucket": "loyal-oath-438204-k1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243473466631:android:a161c1aa0ea74dd13831a2",
+        "android_client_info": {
+          "package_name": "com.example.doctor_add_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KUC3w9ME8zBV-SgubTy-QbvW6lxa9os"
+        },
+        {
+          "current_key": "AIzaSyAc5GqlMPV4Iew6wr8Wyn63fj8tNq4bj2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243473466631:android:b805ab6e488445193831a2",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243473466631-pa6qn9g9u7iun24m9isbjl3mdsot4oeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth",
+            "certificate_hash": "f59e0809f916ae7b6dcb888a0ce2cce7b64445d1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KUC3w9ME8zBV-SgubTy-QbvW6lxa9os"
+        },
+        {
+          "current_key": "AIzaSyAc5GqlMPV4Iew6wr8Wyn63fj8tNq4bj2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
